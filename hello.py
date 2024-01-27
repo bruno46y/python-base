@@ -1,2 +1,4 @@
-print("hello, world!")
-print(56 * 6)
+#!/usr/bin/env python3
+
+# Este programa imprime Hello World
+print("Hello, World!") 
